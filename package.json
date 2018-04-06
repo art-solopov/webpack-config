@@ -17,6 +17,8 @@
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "less": "^3.0.1",
     "less-loader": "^4.1.0",
+    "pug": "^2.0.3",
+    "pug-loader": "^2.4.0",
     "style-loader": "^0.20.3",
     "webpack": "^4.5.0",
     "webpack-manifest-plugin": "^2.0.0-rc.2"

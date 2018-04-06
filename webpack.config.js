@@ -62,6 +62,11 @@ const less = {
     })
 };
 
+const pug = {
+    test: /\.pug$/,
+    loader: 'pug-loader'
+}
+
 module.exports = {
     entry: {
         app: './index.js'
@@ -76,6 +81,7 @@ module.exports = {
         rules: [
             babel,
             coffee,
+            pug,
             css,
             less
         ]
