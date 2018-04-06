@@ -1,0 +1,26 @@
+{
+  "name": "webpack-config",
+  "version": "0.0.1",
+  "description": "An example Webpack configuration",
+  "main": "src/app.js",
+  "author": "Artemiy Solopov <art-solopov@yandex.ru>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.4",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "coffee-loader": "^0.9.0",
+    "coffeescript": "^2.2.4",
+    "css-loader": "^0.28.11",
+    "extract-text-webpack-plugin": "^4.0.0-beta.0",
+    "less": "^3.0.1",
+    "less-loader": "^4.1.0",
+    "style-loader": "^0.20.3",
+    "webpack": "^4.5.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.14"
+  }
+}
