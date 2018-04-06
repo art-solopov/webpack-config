@@ -18,7 +18,8 @@
     "less": "^3.0.1",
     "less-loader": "^4.1.0",
     "style-loader": "^0.20.3",
-    "webpack": "^4.5.0"
+    "webpack": "^4.5.0",
+    "webpack-manifest-plugin": "^2.0.0-rc.2"
   },
   "devDependencies": {
     "webpack-cli": "^2.0.14"
